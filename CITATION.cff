@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis below."
+title: "Beyond the Weekday: open-data framework for holiday transit equity (code)"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Darvishzade
+    given-names: Amirhassan
+preferred-citation:
+  type: thesis
+  title: "Beyond the Weekday: An Open-Data Framework for Holiday Transit Equity, with an Application to Milan"
+  authors:
+    - family-names: Darvishzade
+      given-names: Amirhassan
+  thesis-type: "MSc thesis, Mobility Engineering"
+  institution:
+    name: "Politecnico di Milano"
+  year: 2026

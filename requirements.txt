@@ -1,0 +1,16 @@
+# Python 3.11 (the thesis run used Python 3.11.9).
+#
+# numpy and pandas are pinned to the versions recorded by thesis_code.ipynb in
+# the thesis run. The other packages were not version-recorded in that run;
+# they keep the ranges the pipeline was developed against.
+numpy==2.2.4
+pandas==2.2.3
+geopandas>=0.14,<2.0
+matplotlib>=3.8,<4.0
+scikit-learn>=1.4,<2.0
+scipy>=1.11,<2.0
+shapely>=2.0,<3.0
+pyproj>=3.6,<4.0
+fiona>=1.9,<2.0
+openpyxl>=3.1,<4.0
+osmnx>=2.0,<3.0
